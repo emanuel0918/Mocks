@@ -1,0 +1,12 @@
+Common mistakes people make
+We Just need to calculate the frequency of each element in Array.
+
+The problem can easily be solved with additional memory but the goal is to solve in O(N) time and O(1) memory.
+
+If the interviewee is done in time, Ask him/her:
+
+The difference between floor and cieling functions?
+
+How to calculate floor of any number without using inbuild function?
+
+Difference between Greedy Technique and Dynamic Programming.
