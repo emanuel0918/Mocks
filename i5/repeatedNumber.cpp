@@ -15,7 +15,7 @@ int main(){
  }
  result=repeatedNumber(A);
 
- cout << "[" << result[0] << ", " << result[1] << " ]\n";
+ cout << "[" << result[0] << ", " << result[1] << "]\n";
  return 0;
 }
 vector<int> repeatedNumber( vector<int> A) {
